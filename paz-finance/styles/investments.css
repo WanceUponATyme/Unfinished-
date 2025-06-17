@@ -1,0 +1,12 @@
+.investments-container {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background-color: #ffc107;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
